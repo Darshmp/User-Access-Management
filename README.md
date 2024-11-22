@@ -15,7 +15,7 @@ Technologies Used
 ------------------
 Frontend: JSP, HTML, CSS
 Backend: Java Servlets, JDBC
-Database: Oracle SQL
+Database: PostgreSQL
 Project Management: Maven
 Architecture: MVC (Model-View-Controller)
 
