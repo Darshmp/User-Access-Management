@@ -74,6 +74,7 @@ Prerequisites
 
 Installation
 -------------
+First Unzip the User-Access-Management File
 1.Navigate to the project directory and build the project:
 
 cd User-Access-Management-System
